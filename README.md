@@ -1,57 +1,22 @@
-# Project Name
+---
+topic: sample
+languages:
+  - csharp
+products:
+  - azure
+  - azure-cognitive-services
+  - azure-event-hubs
+azureDeploy: https://raw.githubusercontent.com/Azure-Samples/gaming-cognitive-services-text-translation/master/azuredeploy.json
+---
 
-(short, 1-3 sentenced, description of the project)
+# Text Translation for Gaming - Reference Architecture
 
-## Features
+It's not unusual that players in the same game session natively speak different languages and may appreciate receiving both the original message and its translation.
 
-This project framework provides the following features:
+## Deploy
 
-* Feature 1
-* Feature 2
-* ...
+To deploy the reference architecture to your own account, use the button below.
 
-## Getting Started
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure-Samples%2Fgaming-cognitive-services-text-translation%2Fmaster%2Fazuredeploy.json" target="_blank"><img src="https://azuredeploy.net/deploybutton.png"/></a>
 
-### Prerequisites
-
-(ideally very short, if any)
-
-- OS
-- Library version
-- ...
-
-### Installation
-
-(ideally very short)
-
-- npm install [package name]
-- mvn install
-- ...
-
-### Quickstart
-(Add steps to get up and running quickly)
-
-1. git clone [repository clone url]
-2. cd [respository name]
-3. ...
-
-
-## Demo
-
-A demo app is included to show how to use the project.
-
-To run the demo, follow these steps:
-
-(Add steps to start up the demo)
-
-1.
-2.
-3.
-
-## Resources
-
-(Any additional resources or related projects)
-
-- Link to supporting information
-- Link to similar sample
-- ...
+Then, please see the full documentation on the [Text Translation Reference Architecture](https://docs.microsoft.com/gaming/azure/reference-architectures/cognitive-text-translation) to learn how it all works.
