@@ -11,7 +11,7 @@ azureDeploy: https://raw.githubusercontent.com/Azure-Samples/gaming-cognitive-se
 
 # Text Translation for Gaming - Reference Architecture
 
-It's not unusual that players in the same game session natively speak different languages and may appreciate receiving both the original message and its translation.
+It's not unusual that players in the same game session natively speak different languages and may appreciate receiving both the original message and its translation. This reference architecture describes a translation service that can be built with Azure services.
 
 ## Deploy
 
