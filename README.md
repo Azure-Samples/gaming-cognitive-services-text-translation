@@ -17,6 +17,6 @@ It's not unusual that players in the same game session natively speak different 
 
 To deploy the reference architecture to your own account, use the button below.
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure-Samples%2Fgaming-cognitive-services-text-translation%2Fmaster%2Fazuredeploy.json" target="_blank"><img src="https://azuredeploy.net/deploybutton.png"/></a>
+<a href="https://aka.ms/arm-gaming-cognitive-services-text-translation" target="_blank"><img src="https://azuredeploy.net/deploybutton.png"/></a>
 
 Then, please see the full documentation on the [Text Translation Reference Architecture](https://docs.microsoft.com/gaming/azure/reference-architectures/cognitive-text-translation) to learn how it all works.
