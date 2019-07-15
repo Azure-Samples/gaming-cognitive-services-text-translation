@@ -1,5 +1,5 @@
 ---
-topic: sample
+page_type: sample
 description: "This reference architecture describes a translation service that can be built with Azure services."
 languages:
   - csharp
