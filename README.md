@@ -5,7 +5,7 @@ languages:
   - csharp
 products:
   - azure
-  - azure-cognitive-services
+  - ai-services
   - azure-event-hubs
 azureDeploy: https://raw.githubusercontent.com/Azure-Samples/gaming-cognitive-services-text-translation/master/azuredeploy.json
 ---
